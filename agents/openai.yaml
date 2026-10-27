@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ai 自媒体互动"
+  short_description: "内置15篇真实图文案例，按账号方向生成3—5篇有差异的互动笔记"
+  default_prompt: "使用 $ai-media-interaction，结合我的账号方向和具体任务，生成3—5篇不同角度的互动笔记，包含封面标题和1—3句正文。"

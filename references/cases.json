@@ -1,0 +1,517 @@
+{
+  "schema_version": 1,
+  "casebook_name": "Ai 自媒体互动：内置15篇真实参考",
+  "case_count": 15,
+  "snapshot_note": "正文为学习摘要，标题和封面转写保留来源信息；原帖未显示正文时不补造。指标为2026-10-26或2026-10-27的快照，不表示当前表现。可迁移方向是教学适配标签。",
+  "cases": [
+    {
+      "id": "I01",
+      "note_id": "6a9e5c460000000028002616",
+      "author": "小灵析",
+      "title": "想问问大家，AI视频都是用什么软件做的，",
+      "cover_text": "大家都是用什么ai生成视频的",
+      "body": "作者看到别人的AI视频效果逼真，向大家征集使用的软件。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6a9e5c460000000028002616",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-26",
+      "metrics_snapshot": {
+        "赞": "1046",
+        "藏": "847",
+        "评": "575"
+      },
+      "interaction_family": "求工具",
+      "transfer_directions": [
+        "AI视频",
+        "AI工具",
+        "AI办公"
+      ],
+      "core_question": "实现逼真的AI视频应该用什么工具",
+      "response_action": "推荐工具",
+      "structure": "把目标效果说清楚，再邀请别人报工具。",
+      "adaptation_notes": [
+        "替换成自己想做的具体画面或任务，避免泛问所有AI。"
+      ],
+      "cover_file": "references/covers/I01.webp",
+      "cover_sha256": "2a47d485e3159e9383dc4320b9c5c7e2580c93e510386ac9e8c6f93c764c4550",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I02",
+      "note_id": "6ad7157a0000000031001d52",
+      "author": "Circle 青",
+      "title": "做 AI 视频已经烧了好几千…真的充不起了😭",
+      "cover_text": "AI视频太烧钱了，你们都充多少？",
+      "body": "作者谈到制作AI短片的充值与重试成本，询问其他创作者选择什么档位、看重哪些因素。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad7157a0000000031001d52",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-26",
+      "metrics_snapshot": {
+        "赞": "295",
+        "藏": "256",
+        "评": "184"
+      },
+      "interaction_family": "成本与方案",
+      "transfer_directions": [
+        "AI视频",
+        "AI绘画",
+        "AI工具"
+      ],
+      "core_question": "做AI视频如何选充值档位和控制试错成本",
+      "response_action": "交流成本与选择",
+      "structure": "真实成本困扰→说明重做和档位问题→请同行给选择建议。",
+      "adaptation_notes": [
+        "金额、时长和已经付费的经历属于作者，不能照搬。没有付费经历时，改成准备制作前询问预算。"
+      ],
+      "cover_file": "references/covers/I02.webp",
+      "cover_sha256": "61e12cf81cbcc1a916c033dac05e48d98130f208ea9cd39e05baad99d58ac802",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I03",
+      "note_id": "6ac8f19c00000000140389a2",
+      "author": "刘朱迪AI",
+      "title": "有什么AI能完成小Lin说剪辑呀",
+      "cover_text": "有什么AI能完成小Lin说剪辑呀？",
+      "body": "围绕熟悉的知识博主剪辑风格，征集能配合完成相关画面的AI工具。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ac8f19c00000000140389a2",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-26",
+      "metrics_snapshot": {
+        "赞": "820",
+        "藏": "876",
+        "评": "165"
+      },
+      "interaction_family": "求具体效果",
+      "transfer_directions": [
+        "AI视频",
+        "口播剪辑",
+        "AI办公"
+      ],
+      "core_question": "什么工具能配合完成指定知识博主的剪辑效果",
+      "response_action": "推荐工具与制作方法",
+      "structure": "借熟悉的成片风格说明目标，再询问可配合的工具。",
+      "adaptation_notes": [
+        "可以改成具体制作环节或效果，不暗示任何工具已能完整复现所有剪辑。"
+      ],
+      "cover_file": "references/covers/I03.webp",
+      "cover_sha256": "28ae23e0791664cca696991f94745d876b0be9e0e9795d2e9b57db6e3411b679",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I04",
+      "note_id": "6a17b29f0000000035024386",
+      "author": "PK小甜甜",
+      "title": "AI信息源求推",
+      "cover_text": "除了数字生命卡兹克有没有推荐的AI博主or信息源",
+      "body": "在一个已知AI信息源之外，征集其他博主和更偏落地实践的来源。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6a17b29f0000000035024386",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-26",
+      "metrics_snapshot": {
+        "赞": "811",
+        "藏": "1222",
+        "评": "214"
+      },
+      "interaction_family": "求信息源",
+      "transfer_directions": [
+        "AI工具",
+        "AI资讯",
+        "AI办公"
+      ],
+      "core_question": "除了已知来源还能看哪些落地实践信息",
+      "response_action": "推荐来源",
+      "structure": "说已知的信息源→说明还缺实践内容→征集其他来源。",
+      "adaptation_notes": [
+        "保留需求边界，替换成船员确实关注过的来源；没有已知来源可以直接征集。"
+      ],
+      "cover_file": "references/covers/I04.webp",
+      "cover_sha256": "373007ec8d5b92e6ee31653b02c88128e1293dab8afc454a15c884193a15e6a3",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I05",
+      "note_id": "6ad43022000000000c00f341",
+      "author": "-想喝快乐水-",
+      "title": "AI博主为什么最近都断更了",
+      "cover_text": "AI博主为什么最近都断更了",
+      "body": "作者对AI博主更新减少提出自己的变现方面解释，属于个人观察与观点。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad43022000000000c00f341",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-26",
+      "metrics_snapshot": {
+        "赞": "39",
+        "藏": "18",
+        "评": "51"
+      },
+      "interaction_family": "现象讨论",
+      "transfer_directions": [
+        "AI自媒体",
+        "创作者交流"
+      ],
+      "core_question": "作者如何解释自己关注到的更新现象",
+      "response_action": "交流观察和观点",
+      "structure": "抛出现象→表达作者的个人判断→引出同行回应。",
+      "adaptation_notes": [
+        "“都断更、不能变现”是作者判断，不是已证实的行业结论。使用此结构需要船员自己的真实观察，并限定观察范围。"
+      ],
+      "cover_file": "references/covers/I05.webp",
+      "cover_sha256": "c220d52a9c464f486528373e1c76e7fbf512a983dcd4c8a99385e794d6df06ab",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I06",
+      "note_id": "6ad99c6a000000003301f78c",
+      "author": "粽子猫",
+      "title": "Comfyui真的那么难用吗",
+      "cover_text": "明明comfyui生成视频免费为什么很多人不愿意用",
+      "body": "作者围绕ComfyUI的使用门槛提问，邀请别人说明选择与放弃的原因。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad99c6a000000003301f78c",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-26",
+      "metrics_snapshot": {
+        "赞": "178",
+        "藏": "187",
+        "评": "293"
+      },
+      "interaction_family": "使用门槛",
+      "transfer_directions": [
+        "AI视频",
+        "AI绘画",
+        "AI工具"
+      ],
+      "core_question": "工具看似有优势，为什么使用者仍会放弃",
+      "response_action": "解释取舍和门槛",
+      "structure": "用免费与不愿使用的反差提问，把理由留给使用者。",
+      "adaptation_notes": [
+        "不把“免费”泛化成零硬件、零时间和零运行成本；只借询问取舍的结构。"
+      ],
+      "cover_file": "references/covers/I06.webp",
+      "cover_sha256": "9f05759dc5c5ff6927fb7354a134103aef62df153b37688ae7523a98ea2a956f",
+      "cover_width": 1080,
+      "cover_height": 1333,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I07",
+      "note_id": "6ad5b4b40000000028039981",
+      "author": "打破砂锅问到底！",
+      "title": "原来 GPT-6.1-Sol 这么蠢…",
+      "cover_text": "我服了…原来GPT-6.1-Sol也蠢到这种地步",
+      "body": "作者描述上传脚本的校验实现与自己预期不同，引出对实现方法和效率的讨论。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad5b4b40000000028039981",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-26",
+      "metrics_snapshot": {
+        "赞": "62",
+        "藏": "9",
+        "评": "84"
+      },
+      "interaction_family": "具体卡点",
+      "transfer_directions": [
+        "AI编程",
+        "VibeCoding",
+        "AI自动化"
+      ],
+      "core_question": "上传文件后再下载校验是否是合适的实现方式",
+      "response_action": "解释做法或给替代方案",
+      "structure": "描述真实任务→指出意外实现→表达困惑，引出对方法的讨论。",
+      "adaptation_notes": [
+        "借具体任务和卡点，不照搬辱骂或从单个结果推断模型整体能力。没有亲历问题时，改成对方案的公开请教。"
+      ],
+      "cover_file": "references/covers/I07.webp",
+      "cover_sha256": "93b3066a036cca1c65976e54b9cfc53ff6c80c25d654d0c581ce92d5997d962c",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I08",
+      "note_id": "6acde07d000000001a027fe6",
+      "author": "你猜我是哪个momo",
+      "title": "你用 AI 做出了什么好东西？来评论区晒晒",
+      "cover_text": "你用AI做出了什么好东西？来评论区晒晒",
+      "body": "征集个人用AI做出的APP、网页、小工具和游戏，邀请晒截图并说明用途；正文还安排了按用途分类分享的方式。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6acde07d000000001a027fe6",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "155",
+        "藏": "163",
+        "评": "247"
+      },
+      "interaction_family": "晒成果",
+      "transfer_directions": [
+        "AI编程",
+        "VibeCoding",
+        "AI办公"
+      ],
+      "core_question": "个人借助AI做出了哪些能使用或有趣的作品",
+      "response_action": "晒成果并解释用途",
+      "structure": "用“做出了什么好东西”征集成果，给出作品范围，再说明怎样分享。本篇正文较长，新手可借鉴封面问法和明确范围的做法。",
+      "adaptation_notes": [
+        "原文有分类分享规则且较长，生成时只保留适合当前任务的征集范围和简短提问。"
+      ],
+      "cover_file": "references/covers/I08.jpg",
+      "cover_sha256": "6b4407f7dac6543d8db8556572e147cb260ad3a67048bb1329beccbb007d1572",
+      "cover_width": 720,
+      "cover_height": 1200,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I09",
+      "note_id": "6ad88525000000003101f7af",
+      "author": "豌豆荚",
+      "title": "想看看大家已经把AI用到了什么程度了",
+      "cover_text": "好奇大家用ai做了什么好用的小工具",
+      "body": "询问大家做过哪些好用、好玩的AI工具，并继续追问为什么制作、现在是否还在使用。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad88525000000003101f7af",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "342",
+        "藏": "412",
+        "评": "174"
+      },
+      "interaction_family": "成果与使用经验",
+      "transfer_directions": [
+        "AI编程",
+        "VibeCoding",
+        "AI办公"
+      ],
+      "core_question": "做过哪些小工具，为什么做，现在还用不用",
+      "response_action": "晒成果并讲使用经验",
+      "structure": "封面用“好奇大家”征集小工具；正文从成果追问制作动机和持续使用情况，让评论能讲具体经验。",
+      "adaptation_notes": [
+        "不只改成果名称，也可把讨论点放在制作动机、留存使用或实际用途。"
+      ],
+      "cover_file": "references/covers/I09.webp",
+      "cover_sha256": "43c88e5a053020e960ed4b9ecdc9686150bf717e9392cbf57b55df71518fb8d2",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I10",
+      "note_id": "6acce787000000001c00cf52",
+      "author": "姚里有光",
+      "title": "看看大家用 AI 做出来的小程序 APP",
+      "cover_text": "好奇大家用ai做了什么小程序app",
+      "body": "围绕Vibe Coding，直接邀请大家分享自己制作的小程序或APP。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6acce787000000001c00cf52",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "354",
+        "藏": "351",
+        "评": "378"
+      },
+      "interaction_family": "限定成果类型",
+      "transfer_directions": [
+        "AI编程",
+        "VibeCoding",
+        "AI办公"
+      ],
+      "core_question": "大家做出了哪些小程序或APP",
+      "response_action": "晒指定类型作品",
+      "structure": "与I09形成同句式对照：保留“好奇大家用AI做了什么”，把征集对象换成小程序和APP，正文只补一句邀请。",
+      "adaptation_notes": [
+        "可与I09对照固定句式和不同征集范围；移植到自己的任务后，避免继续泛问所有作品。"
+      ],
+      "cover_file": "references/covers/I10.webp",
+      "cover_sha256": "cad924408a6bad91d8505e49426942cd90ee4555d50b6d2fe1bc44e9f5065aba",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I11",
+      "note_id": "6ab9f22300000000180144d8",
+      "author": "爱学习的喵",
+      "title": "有什么ai的生图效果比gpt还好吗",
+      "cover_text": "有什么ai的生图效果比gpt还好吗？",
+      "body": "展示一张生图效果参考，说明想要更真实的照片效果，再请大家推荐其他工具。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ab9f22300000000180144d8",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "1132",
+        "藏": "818",
+        "评": "637"
+      },
+      "interaction_family": "求具体效果",
+      "transfer_directions": [
+        "AI绘画",
+        "AI视频",
+        "AI工具"
+      ],
+      "core_question": "想获得真实照片效果，应选什么工具或方法",
+      "response_action": "推荐工具或方法",
+      "structure": "用一个熟悉的工具作参照，把“想要真实照片效果”说清楚。学习明确效果再求推荐的问法，不把提问当成工具排名结论。",
+      "adaptation_notes": [
+        "效果参照用于说明需求，问题本身不是工具性能排名。"
+      ],
+      "cover_file": "references/covers/I11.webp",
+      "cover_sha256": "f5441e4f0ebf06dd1727527712bd88f6d3a9757fff1704a2cb802d67358dab93",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I12",
+      "note_id": "6ad1a1dd000000000b006b3a",
+      "author": "苏鹿画布",
+      "title": "大家都用AI搓了什么东西？或者工具",
+      "cover_text": "大家都用AI搓了什么东西？敢不敢放出来，启迪一下我的思路？",
+      "body": "作者先说自己做过围棋、牌类游戏和桌面工作平台，再请大家分享其他作品，帮助拓展思路。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad1a1dd000000000b006b3a",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "1477",
+        "藏": "1930",
+        "评": "954"
+      },
+      "interaction_family": "成果与创作灵感",
+      "transfer_directions": [
+        "AI编程",
+        "VibeCoding",
+        "AI办公"
+      ],
+      "core_question": "已有一些作品之后，还能做哪些有用的小工具",
+      "response_action": "分享作品和新思路",
+      "structure": "“先说自己做过什么＋再向大家征集思路”，给评论一个具体起点。自己的经历需要替换为真实情况。",
+      "adaptation_notes": [
+        "围棋、游戏和桌面平台是作者自己的经历；仅在船员提供真实成果时使用“我已经做过”。"
+      ],
+      "cover_file": "references/covers/I12.webp",
+      "cover_sha256": "0feb413fd294463ce833c0d4bba98422b77e7efcaa12e9505c528a682c7f8dc0",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I13",
+      "note_id": "6adcd7730000000024037918",
+      "author": "起个名字好难",
+      "title": null,
+      "cover_text": "6.1sol真的不如deepseek v4.1flash吗",
+      "body": "作者自述用两种模型审核、修改生信代码的体验，并对网上不同评价提出疑问；这是个人使用感受。原帖未设独立标题。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6adcd7730000000024037918",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "51",
+        "藏": "25",
+        "评": "189"
+      },
+      "interaction_family": "体验与评价反差",
+      "transfer_directions": [
+        "AI编程",
+        "VibeCoding",
+        "AI工具"
+      ],
+      "core_question": "为什么同类模型的个人使用体验与网上评价不同",
+      "response_action": "交流具体任务下的体验",
+      "structure": "用“我的体验与常见评价不一致”引出讨论，并补充具体任务和设置。只借鉴真实体验的表达方式，不直接下模型性能结论。",
+      "adaptation_notes": [
+        "比较是作者在特定任务和不同设置下的主观感受，不是本Skill的性能结论；不为船员虚构“网上都说”。"
+      ],
+      "cover_file": "references/covers/I13.webp",
+      "cover_sha256": "54211a54ed98e3b7715e1b8b9ee7dcac4d405f22a973f7f5a464666b971e2b8f",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I14",
+      "note_id": "6ac374b2000000001c01f3ed",
+      "author": "Catn",
+      "title": null,
+      "cover_text": "宝宝们，求一款有活人感的AI聊天软件",
+      "body": "作者称体验过的一款AI聊天工具AI感较重，想寻找回复更自然的选择。原帖未设独立标题。",
+      "body_status": "present",
+      "source_url": "https://www.xiaohongshu.com/explore/6ac374b2000000001c01f3ed",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "32",
+        "藏": "9",
+        "评": "184"
+      },
+      "interaction_family": "明确体验标准",
+      "transfer_directions": [
+        "AI对话",
+        "AI工具",
+        "AI办公"
+      ],
+      "core_question": "怎样找到回复更自然的AI聊天工具",
+      "response_action": "按体验标准推荐工具",
+      "structure": "“求一款＋明确体验标准”，比泛问“哪个AI好用”更容易收到针对性建议。个人使用经历不要照搬。",
+      "adaptation_notes": [
+        "一款已用工具AI感较重是作者经历；可迁移“明确标准再推荐”的结构，不照搬体验。"
+      ],
+      "cover_file": "references/covers/I14.webp",
+      "cover_sha256": "657e15cff40f8ff03b30f69560e40bc41ba3247cc9d0e2206de74f02e57646f3",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "learning_summary"
+    },
+    {
+      "id": "I15",
+      "note_id": "6ad440a300000000270342b2",
+      "author": "小红薯6890E0F4",
+      "title": "我觉得opencode也挺好用啊",
+      "cover_text": "你们AI编程有人用opencode吗？我觉得挺好用啊",
+      "body": "",
+      "body_status": "not_shown",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad440a300000000270342b2",
+      "source_platform": "小红书",
+      "snapshot_date": "2026-10-27",
+      "metrics_snapshot": {
+        "赞": "85",
+        "藏": "119",
+        "评": "67"
+      },
+      "interaction_family": "同类工具交流",
+      "transfer_directions": [
+        "AI编程",
+        "VibeCoding",
+        "AI工具"
+      ],
+      "core_question": "做AI编程的人是否也使用OpenCode，以及感受如何",
+      "response_action": "同类使用者交流",
+      "structure": "直接点出使用人群和工具，配一句个人感受，邀请同类使用者接话。本例主要学习封面问法。",
+      "adaptation_notes": [
+        "原帖未显示单独文字正文，只借封面问法；“挺好用”保留为作者个人态度。"
+      ],
+      "cover_file": "references/covers/I15.webp",
+      "cover_sha256": "9ce85c6d9ce96cb1223992268ef558ff6601bf2a29f598a3c3756b04919349c3",
+      "cover_width": 1080,
+      "cover_height": 1440,
+      "body_kind": "not_shown"
+    }
+  ]
+}
